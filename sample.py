@@ -7,4 +7,4 @@ value=pd.Series(data)
 
 print(value)
 
-print("Hello World For Jackson")
+print("Hello World Jackson")
